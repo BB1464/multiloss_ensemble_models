@@ -36,4 +36,4 @@ We further performed localization studies using Grad_CAM to localize the disease
 
 ![alt text](grad_cam.png)
 
-The repository includes the complete code to follow the steps discussed in this study. 
+This repository includes the complete code to follow the steps discussed in this study. 
